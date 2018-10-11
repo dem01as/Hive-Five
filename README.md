@@ -7,3 +7,5 @@ This is the most important piece in the game.
 
  "It can only move by one step at a time and can not squeeze into tiny openings. " 
   "The queen bee has to be out on the board within the first four moves."
+  
+  +1 9096185920 rgg2ro@yeah.net
